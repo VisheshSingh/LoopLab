@@ -1,1 +1,14 @@
 // Main Sass File
+$bg-color: #333;
+$color: #fff;
+$primary: #008ed6;
+
+body {
+    background: $bg-color;
+    color: $color;
+}
+
+nav {
+    border-bottom: $primary solid 3px;
+    opacity: 0.8;
+}
