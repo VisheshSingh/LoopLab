@@ -33,7 +33,7 @@ nav {
   border-radius: 5px;
   font-size: 30px; }
 
-#exploresection .fa {
+#exploresection .fa, #sharesection .fa {
   color: #fff;
   background: #333;
   padding: 4px;
